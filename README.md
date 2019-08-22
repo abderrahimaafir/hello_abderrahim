@@ -1,3 +1,4 @@
 # hello_abderrahim
 
-here is the first line
+i deleted the first line 
+and here is the sconde one 
